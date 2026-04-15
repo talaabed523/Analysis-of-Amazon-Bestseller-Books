@@ -1,6 +1,6 @@
 # 📚 Amazon Bestsellers Analysis
 
-An exploratory data analysis (EDA) of Amazon's bestselling books from 2009–2019 using Python, Pandas, and Seaborn.
+An exploratory data analysis (EDA) of Amazon's bestselling books from 2023-2025 using Python, Pandas, and Seaborn.
 
 ## 📊 Visualizations
 
