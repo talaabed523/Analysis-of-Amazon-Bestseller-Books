@@ -8,7 +8,7 @@ An exploratory data analysis (EDA) of Amazon's bestselling books from 2009–201
 ![Top Authors](visuals/top_authors.png)
 
 ### Distribution of User Ratings
-![Rating Distribution](visuals/rating_distribution.png)
+![Rating Distribution](visuals/rating_distributions.png)
 
 ### Price vs. Rating by Genre
 ![Price vs Rating](visuals/price_vs_rating.png)
